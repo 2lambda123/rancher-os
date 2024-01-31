@@ -39,4 +39,3 @@ ENV DAPPER_OUTPUT ./dist
 #ENV SHELL /bin/bash
 
 CMD true
-
